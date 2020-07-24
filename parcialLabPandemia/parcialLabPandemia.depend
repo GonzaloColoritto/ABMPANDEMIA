@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1595616506 source:c:\users\gonzalo\desktop\parciallabpandemia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"ll_list.h"
+	"Controller.h"
+	"informes.h"
+
+1595603931 source:c:\users\gonzalo\desktop\parciallabpandemia\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1595616837 source:c:\users\gonzalo\desktop\parciallabpandemia\ll_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ll_list.h"
+	"pais.h"
+	"Controller.h"
+
+1595616530 c:\users\gonzalo\desktop\parciallabpandemia\ll_list.h
+
+1595603665 source:c:\users\gonzalo\desktop\parciallabpandemia\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"pais.h"
+	<string.h>
+
+1595528825 source:c:\users\gonzalo\desktop\parciallabpandemia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+
+1595527118 c:\users\gonzalo\desktop\parciallabpandemia\utn.h
+
+1595610621 source:c:\users\gonzalo\desktop\parciallabpandemia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"ll_list.h"
+	"pais.h"
+	"parser.h"
+	"utn.h"
+
+1595601175 c:\users\gonzalo\desktop\parciallabpandemia\parser.h
+
+1595603758 source:c:\users\gonzalo\desktop\parciallabpandemia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ll_list.h"
+	"pais.h"
+
+1595601175 c:\users\gonzalo\desktop\parciallabpandemia\menu.h
+
+1595603665 c:\users\gonzalo\desktop\parciallabpandemia\pais.h
+
+1595604440 c:\users\gonzalo\desktop\parciallabpandemia\controller.h
+	"ll_list.h"
+
+1595615594 source:c:\users\gonzalo\desktop\parciallabpandemia\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"pais.h"
+
+1595613903 c:\users\gonzalo\desktop\parciallabpandemia\informes.h
+
